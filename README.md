@@ -8,5 +8,5 @@ It is a game of breaking bricks using a paddle. In this, JavaScript is for logic
 
 I used Sublime text editor. You can use any text editor.
 ```sh
-Double Click of index.html will run the game 
+Double Click on index.html will run the game 
 ```
